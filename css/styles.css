@@ -25,9 +25,10 @@ h1 {
 }
 
 .container-full a {
-  color:#efefef;
-  text-decoration:none;
+  color:#FFF;
+  text-decoration:underline;
 }
+
 
 .v-center {
   margin-top:7%;
